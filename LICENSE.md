@@ -19,3 +19,25 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+AVISO LEGAL
+
+Esta documentación es exclusivamente para fines educativos y de aprendizaje en 
+ciberseguridad. Está diseñado para ser utilizado en el entorno controlado de 
+Cyberdefenders.(https://cyberdeferders.org)
+
+⚠️ IMPORTANTE:
+- Solo utiliza estas técnicas en entornos autorizados (Cyberdefenders, laboratorios 
+  propios, o con autorización explícita por escrito).
+- El uso indebido de estas técnicas en sistemas sin autorización es ilegal y 
+  puede resultar en sanciones penales.
+- El autor no se hace responsable del uso inadecuado de la información contenida 
+  en este repositorio.
+- Este material está destinado a profesionales de seguridad, estudiantes de 
+  ciberseguridad y entusiastas éticos del hacking.
+
+Al utilizar este material, aceptas usarlo de manera ética y legal, respetando 
+las leyes de tu jurisdicción y los términos de servicio de las plataformas 
+involucradas.
